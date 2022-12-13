@@ -1,0 +1,32 @@
+.user{
+    display: flex;
+    justify-content: space-between;
+}
+.us{
+    width: 25%;
+
+}
+.us h1{
+    text-align: center;
+    
+}
+.us button{
+    width: 100%;
+    background-color: pink;
+}
+.title{
+    display:block;
+    width: 100%;
+    color: aliceblue;
+    background-color: aquamarine;
+}
+.tags {
+    display: flex;
+    justify-content: left;
+}
+header{
+    display: block;
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 25px;
+}
